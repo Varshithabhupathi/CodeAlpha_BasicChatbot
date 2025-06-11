@@ -58,11 +58,17 @@ bot()
 **SAMPLE OUTPUT**:
 
 Chatbot: Hello! I'm your friendly chatbot. Type 'bye' to exit.
+
 You: hello
+
 Chatbot: Hi!
+
 You: how are you
+
 Chatbot: I'm fine, thanks!
+
 You: bye
+
 Chatbot: Goodbye!
 
 ![image](https://github.com/user-attachments/assets/3775e065-7f69-457a-b208-8a5596ebbf9a)
