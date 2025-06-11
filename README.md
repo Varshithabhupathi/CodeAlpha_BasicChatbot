@@ -16,6 +16,7 @@
 **TECHNOLOGIES USED**:
 
 Programming Language: Python
+
 Core Concepts:
   - `if-elif-else` conditional statements
   - `while` loop for continuous interaction
@@ -35,6 +36,7 @@ Core Concepts:
 2. Save the following code in a file named `chatbot.py`.
 
 def bot():
+
     print("Welcome to the Basic Chatbot! (Type 'bye' to exit)")
 
     inputs = ["hello", "how are you", "bye"]  # predefined inputs for testing
@@ -72,6 +74,7 @@ You: bye
 Chatbot: Goodbye!
 
 ![image](https://github.com/user-attachments/assets/3775e065-7f69-457a-b208-8a5596ebbf9a)
+
 
 **CONCLUSION**:
             This project showcases how simple rule-based logic can be used to simulate human-like conversation. It serves as a great starting point for building more advanced chatbots using NLP or machine learning in the future. Perfect for Python learners to strengthen their grasp on basic programming concepts.
